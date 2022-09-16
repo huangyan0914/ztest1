@@ -4,7 +4,7 @@ public interface ObserverInterf {
     void onUpdate(ObserverEvent ent);
 
     /**
-     * description 
+     * description
      * @param
      * @return java.lang.String
      * @date 2022/9/16 11:13
