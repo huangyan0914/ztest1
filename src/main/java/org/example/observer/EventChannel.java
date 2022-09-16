@@ -18,4 +18,9 @@ public class EventChannel {
             aObserver.onUpdate(event);
         }
     }
+
+
+    public static void main(String[] args) {
+
+    }
 }
