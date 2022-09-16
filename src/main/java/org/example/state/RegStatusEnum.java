@@ -7,6 +7,7 @@ public enum RegStatusEnum {
     CONNECTED,
     // 正在登录
     LOGINING,
+    YYY,
     // 登录进系统
     LOGIN_INTO_SYSTEM;
 }
