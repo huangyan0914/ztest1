@@ -9,6 +9,7 @@ public enum RegEventEnum {
     LOGIN_SUCCESS,
     // 登录失败
     LOGIN_FAILURE,
+    XXX,
     // 注销登录
     LOGOUT;
 }
