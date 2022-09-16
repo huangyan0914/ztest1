@@ -10,5 +10,7 @@ public class Test1 {
 
         CloseableHttpClient httpClient = HttpClientBuilder.create().build();
         System.out.println(httpClient);
+
+        System.out.println("eeeeeee");
     }
 }
