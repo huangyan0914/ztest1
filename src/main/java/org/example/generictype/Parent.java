@@ -7,4 +7,8 @@ public class Parent implements Comparable<Parent> {
     public int compareTo(Parent o) {
         return 0;
     }
+
+    public void voidMethod() {
+        System.out.println("void");
+    }
 }
